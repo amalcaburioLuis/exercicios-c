@@ -1,0 +1,15 @@
+# Executáveis e binários
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# IDEs / editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
